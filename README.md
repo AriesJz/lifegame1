@@ -1,0 +1,2 @@
+# lifegame1
+a
